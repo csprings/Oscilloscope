@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\seokchoi\\source\\repos\\Oscilloscope\\Oscilloscope\\Oscilloscope.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\seokchoi\\source\\repos\\Oscilloscope\\Oscilloscope\\Oscilloscope.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\seokchoi\\source\\repos\\Oscilloscope\\Oscilloscope\\Oscilloscope.csproj",
+        "projectName": "Oscilloscope",
+        "projectPath": "C:\\Users\\seokchoi\\source\\repos\\Oscilloscope\\Oscilloscope\\Oscilloscope.csproj",
+        "packagesPath": "C:\\Users\\seokchoi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\seokchoi\\source\\repos\\Oscilloscope\\Oscilloscope\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\seokchoi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "OpenTAP": {
+              "target": "Package",
+              "version": "[9.16.4, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,98 @@
+﻿2022-01-24 09:46:26.005654 ; Session        ; Debug       ; Session log loaded as 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\SessionLogs\editor 2022-01-24 09-46-22.txt'. [13.3 ms]
+2022-01-24 09:46:26.061657 ; Session        ; Debug       ; Running '"C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\editor.exe" ' in 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug'.
+2022-01-24 09:46:26.623656 ; Session        ; Debug       ; Microsoft Windows 10.0.19042 X64
+2022-01-24 09:46:26.623656 ; Session        ; Debug       ; .NET Framework 4.8.4420.0
+2022-01-24 09:46:26.834652 ; Session        ; Debug       ; OpenTAP Engine 9.16.4+654f0b6b X64
+2022-01-24 09:46:26.977653 ; Resolver       ; Debug       ; Found 23/87 assembly files. [89.2 ms]
+2022-01-24 09:46:27.042653 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-01-24 09:46:27.046654 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Wpf, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Packages\WPF Controls\Keysight.OpenTap.Wpf.dll
+2022-01-24 09:46:27.237651 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-01-24 09:46:27.646655 ; Searcher       ; Debug       ; Ordered 21 assemblies according to references. [649 ms]
+2022-01-24 09:46:28.005652 ; PluginManager  ; Debug       ; Found 17 plugin assemblies containing 262 plugin types. [1.01 s]
+2022-01-24 09:46:28.005652 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.dll
+2022-01-24 09:46:28.005652 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Package.dll
+2022-01-24 09:46:28.005652 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Plugins.BasicSteps.dll
+2022-01-24 09:46:28.005652 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of Keysight.OpenTap.Wpf.dll
+2022-01-24 09:46:28.005652 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of PackageManager.exe
+2022-01-24 09:46:28.005652 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of Editor.exe
+2022-01-24 09:46:28.005652 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of Oscilloscope.dll
+2022-01-24 09:46:28.005652 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-01-24 09:46:28.005652 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of ResultsViewer.exe
+2022-01-24 09:46:28.005652 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of RunExplorer.exe
+2022-01-24 09:46:28.005652 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of TimingAnalyzer.exe
+2022-01-24 09:46:28.005652 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-01-24 09:46:28.005652 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Sdk.New.dll
+2022-01-24 09:46:28.005652 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-01-24 09:46:28.006654 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-01-24 09:46:28.006654 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-01-24 09:46:28.006654 ; PluginManager  ; Debug       ; Found version 1.2.2+ebf9ebe5   of OpenTap.VSSdk.Installer.dll
+2022-01-24 09:46:28.006654 ; PluginManager  ; Debug       ; Searched 23 Assemblies. [1.01 s]
+2022-01-24 09:46:28.154654 ; PluginManager  ; Debug       ; Loaded OpenTap. [1.44 ms]
+2022-01-24 09:46:28.160653 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [590 us]
+2022-01-24 09:46:28.293654 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [54.1 ms]
+2022-01-24 09:46:28.314660 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [58.0 ms]
+2022-01-24 09:46:28.415657 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [29.4 ms]
+2022-01-24 09:46:28.680213 ; PluginManager  ; Debug       ; Loaded mscorlib. [1.30 us]
+2022-01-24 09:46:29.221216 ; Settings       ; Debug       ; EditorSettings loaded from C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Editor.xml [1.16 s]
+2022-01-24 09:46:29.274212 ; Resolver       ; Debug       ; Found match for MahApps.Metro, Version=1.3.0.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Dependencies\MahApps.Metro.1.3.0.0\MahApps.Metro.dll
+2022-01-24 09:46:29.311211 ; Resolver       ; Debug       ; Found match for Keysight.Ccl.Wsl, Version=4.0.1.9, Culture=neutral, PublicKeyToken=55333af07c70062e in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Dependencies\Keysight.Ccl.Wsl.4.0.1.9\Keysight.Ccl.Wsl.dll
+2022-01-24 09:46:29.868974 ; GUI            ; Debug       ; Loaded Light Theme. [40.3 ms]
+2022-01-24 09:46:30.704266 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-01-24 09:46:31.034450 ; PluginManager  ; Debug       ; Loaded PresentationFramework. [1.00 us]
+2022-01-24 09:46:31.260377 ; Settings       ; Debug       ; GuiControlsSettings loaded from C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\GUI Controls.xml [303 ms]
+2022-01-24 09:46:31.260377 ; Main           ; Debug       ; Window initial dimensions: 1024px, 768px.
+2022-01-24 09:46:31.360421 ; Settings       ; Debug       ; EngineSettings loaded from C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Engine.xml [96.7 ms]
+2022-01-24 09:46:31.379394 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [8.15 ms]
+2022-01-24 09:46:31.433382 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-01-24 09-46-31.txt'. [24.8 ms]
+2022-01-24 09:46:32.498959 ; Main           ; Debug       ; GUI initialized. [1.23 s]
+2022-01-24 09:46:32.498959 ; Main           ; Debug       ; Docking manager initialized. [173 us]
+2022-01-24 09:46:32.638958 ; Resolver       ; Debug       ; Found match for Keysight.Kal.Licensing.Api, Version=4.0.0.0, Culture=neutral, PublicKeyToken=55333af07c70062e in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Dependencies\Keysight.Kal.Licensing.Api.4.0.0.0\Keysight.Kal.Licensing.Api.dll
+2022-01-24 09:46:32.696957 ; PluginManager  ; Debug       ; Loaded PackageManager. [1.16 ms]
+2022-01-24 09:46:32.697956 ; PluginManager  ; Debug       ; Loaded Editor. [156 us]
+2022-01-24 09:46:32.771958 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [73.3 ms]
+2022-01-24 09:46:32.829958 ; PluginManager  ; Debug       ; Loaded RunExplorer. [56.7 ms]
+2022-01-24 09:46:32.874960 ; PluginManager  ; Debug       ; Loaded TimingAnalyzer. [44.7 ms]
+2022-01-24 09:46:32.896963 ; Settings       ; Debug       ; ConnectionSettings loaded from C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Bench\Default\Connections.xml [20.0 ms]
+2022-01-24 09:46:32.914958 ; Settings       ; Debug       ; DutSettings loaded from C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Bench\Default\DUTs.xml [17.2 ms]
+2022-01-24 09:46:33.032957 ; PluginManager  ; Debug       ; Loaded Oscilloscope. [87.5 ms]
+2022-01-24 09:46:33.225957 ; Settings       ; Debug       ; InstrumentSettings loaded from C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Bench\Default\Instruments.xml [310 ms]
+2022-01-24 09:46:33.248960 ; Settings       ; Debug       ; ResultSettings loaded from C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Results.xml [23.2 ms]
+2022-01-24 09:46:33.853957 ; Main           ; Debug       ; Update check complete. [1.33 s]
+2022-01-24 09:46:34.608358 ; Resolver       ; Debug       ; Found match for Keysight.Ccl.Licensing.Api, Version=5.2.0.5231, Culture=neutral, PublicKeyToken=55333af07c70062e in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Dependencies\Keysight.Ccl.Licensing.Api.5.3.2.19\Keysight.Ccl.Licensing.Api.dll
+2022-01-24 09:46:35.419397 ; Resolver       ; Debug       ; Found 23/87 assembly files. [56.1 ms]
+2022-01-24 09:46:35.419397 ; Resolver       ; Debug       ; Unable to find match for Keysight.Ftl.Licensing.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=55333af07c70062e
+2022-01-24 09:46:35.439922 ; OpenTAP        ; Information ; OpenTAP version '9.16.4+654f0b6b' 64-bit initialized 01/24/2022 [12.9 s]
+2022-01-24 09:46:36.588243 ; Settings       ; Debug       ; PanelSettings loaded from C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\GUI Panels.xml [16.8 ms]
+2022-01-24 09:46:37.130293 ; Main           ; Debug       ; Application startup finished. [14.6 s]
+2022-01-24 09:46:40.262841 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\GUI Controls.xml [19.3 ms]
+2022-01-24 09:46:40.284960 ; Settings       ; Debug       ; Saved PanelSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\GUI Panels.xml [3.98 ms]
+2022-01-24 09:46:40.291007 ; Settings       ; Debug       ; Saved EditorSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Editor.xml [5.90 ms]
+2022-01-24 09:46:48.333414 ; Settings       ; Debug       ; Saved ConnectionSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Bench\Default\Connections.xml [3.27 ms]
+2022-01-24 09:46:48.341423 ; Settings       ; Debug       ; Saved DutSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Bench\Default\DUTs.xml [6.76 ms]
+2022-01-24 09:46:48.349417 ; Settings       ; Debug       ; Saved EditorSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Editor.xml [7.63 ms]
+2022-01-24 09:46:48.368420 ; Settings       ; Debug       ; Saved EngineSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Engine.xml [17.8 ms]
+2022-01-24 09:46:48.385416 ; Settings       ; Debug       ; Saved InstrumentSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Bench\Default\Instruments.xml [16.4 ms]
+2022-01-24 09:46:48.393418 ; Settings       ; Debug       ; Saved ResultSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Results.xml [7.56 ms]
+2022-01-24 09:46:48.448615 ; Main           ; Debug       ; Reloaded test plan. [29.2 ms]
+2022-01-24 09:50:11.610568 ; TestPlan       ; Information ; -----------------------------------------------------------------
+2022-01-24 09:50:11.659242 ; TestPlan       ; Information ; Starting TestPlan 'Untitled' on 01/24/2022 09:50:11, 1 of 1 TestSteps enabled.
+2022-01-24 09:50:11.775322 ; TestPlan       ; Debug       ; Saved Test Plan XML [10.8 ms]
+2022-01-24 09:50:11.790326 ; Settings       ; Debug       ; No settings file exists for TestPlanRunPackageParameterMonitor. A new instance with default values has been created. [632 us]
+2022-01-24 09:50:11.957395 ; Scope          ; Debug       ; Connecting to 'TCPIP0::localhost::inst0::INSTR'
+2022-01-24 09:50:12.134397 ; Scope          ; Debug       ; SCPI >> *IDN? [11.0 ms]
+2022-01-24 09:50:12.134397 ; Scope          ; Debug       ; SCPI << KEYSIGHT TECHNOLOGIES,N8900A,JF79387449,06.71.00202
+2022-01-24 09:50:12.134397 ; Scope          ; Information ; Now connected to: KEYSIGHT TECHNOLOGIES,N8900A,JF79387449,06.71.00202
+2022-01-24 09:50:12.139397 ; Scope          ; Debug       ; SCPI >> *CLS [1.09 ms]
+2022-01-24 09:50:12.141395 ; Scope          ; Information ; Resource "Scope (TCPIP0::localhost::inst0::INSTR)" opened. [212 ms]
+2022-01-24 09:50:12.188395 ; TestPlan       ; Debug       ; PrePlanRun Methods completed [11.1 ms]
+2022-01-24 09:50:12.213396 ; TestPlan       ; Information ; "IDN" started.
+2022-01-24 09:50:12.225395 ; Scope          ; Debug       ; SCPI >> *IDN? [1.67 ms]
+2022-01-24 09:50:12.225395 ; Scope          ; Debug       ; SCPI << KEYSIGHT TECHNOLOGIES,N8900A,JF79387449,06.71.00202
+2022-01-24 09:50:12.232396 ; TestStep       ; Information ; KEYSIGHT TECHNOLOGIES,N8900A,JF79387449,06.71.00202
+2022-01-24 09:50:12.246395 ; TestPlan       ; Information ; "IDN" completed. [30.3 ms]
+2022-01-24 09:50:12.249398 ; TestPlan       ; Debug       ; Test step runs finished. [61.2 ms]
+2022-01-24 09:50:12.294393 ; Summary        ; Information ; ----- Summary of test plan started 01/24/2022 09:50:11 -----
+2022-01-24 09:50:12.300395 ; Summary        ; Information ;  IDN                                              30.3 ms         
+2022-01-24 09:50:12.301395 ; Summary        ; Information ; ------------------------------------------------------------
+2022-01-24 09:50:12.302394 ; Summary        ; Information ; -------- Test plan completed successfully in 471 ms --------
+2022-01-24 09:50:12.367397 ; Scope          ; Information ; Resource "Scope (TCPIP0::localhost::inst0::INSTR)" closed. [32.8 ms]

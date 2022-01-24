@@ -1,0 +1,89 @@
+﻿2022-01-24 09:21:36.395843 ; Session        ; Debug       ; Session log loaded as 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\SessionLogs\editor 2022-01-24 09-21-32.txt'. [27.5 ms]
+2022-01-24 09:21:36.481847 ; Session        ; Debug       ; Running '"C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\editor.exe" ' in 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug'.
+2022-01-24 09:21:36.726994 ; Session        ; Debug       ; Microsoft Windows 10.0.19042 X64
+2022-01-24 09:21:36.726994 ; Session        ; Debug       ; .NET Framework 4.8.4420.0
+2022-01-24 09:21:36.768990 ; Session        ; Debug       ; OpenTAP Engine 9.16.4+654f0b6b X64
+2022-01-24 09:21:36.800992 ; Resolver       ; Debug       ; Found 23/87 assembly files. [63.8 ms]
+2022-01-24 09:21:36.854990 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-01-24 09:21:36.871990 ; Resolver       ; Debug       ; Found match for Keysight.OpenTap.Wpf, Version=9.5.0.0, Culture=neutral, PublicKeyToken=null in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Packages\WPF Controls\Keysight.OpenTap.Wpf.dll
+2022-01-24 09:21:37.009988 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-01-24 09:21:37.648646 ; Settings       ; Debug       ; No settings file exists for EditorSettings. A new instance with default values has been created. [6.51 ms]
+2022-01-24 09:21:37.674632 ; Resolver       ; Debug       ; Found match for MahApps.Metro, Version=1.3.0.0, Culture=neutral, PublicKeyToken=f4fb5a3c4d1e5b4f in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Dependencies\MahApps.Metro.1.3.0.0\MahApps.Metro.dll
+2022-01-24 09:21:37.706631 ; Resolver       ; Debug       ; Found match for Keysight.Ccl.Wsl, Version=4.0.1.9, Culture=neutral, PublicKeyToken=55333af07c70062e in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Dependencies\Keysight.Ccl.Wsl.4.0.1.9\Keysight.Ccl.Wsl.dll
+2022-01-24 09:21:37.743630 ; Searcher       ; Debug       ; Ordered 21 assemblies according to references. [932 ms]
+2022-01-24 09:21:38.006626 ; PluginManager  ; Debug       ; Found 17 plugin assemblies containing 262 plugin types. [1.19 s]
+2022-01-24 09:21:38.006626 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.dll
+2022-01-24 09:21:38.006626 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Package.dll
+2022-01-24 09:21:38.006626 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Plugins.BasicSteps.dll
+2022-01-24 09:21:38.006626 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of Keysight.OpenTap.Wpf.dll
+2022-01-24 09:21:38.006626 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of PackageManager.exe
+2022-01-24 09:21:38.006626 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of Editor.exe
+2022-01-24 09:21:38.006626 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of Oscilloscope.dll
+2022-01-24 09:21:38.006626 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-01-24 09:21:38.006626 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of ResultsViewer.exe
+2022-01-24 09:21:38.006626 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of RunExplorer.exe
+2022-01-24 09:21:38.006626 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of TimingAnalyzer.exe
+2022-01-24 09:21:38.006626 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-01-24 09:21:38.006626 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Sdk.New.dll
+2022-01-24 09:21:38.006626 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-01-24 09:21:38.007623 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-01-24 09:21:38.007623 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-01-24 09:21:38.007623 ; PluginManager  ; Debug       ; Found version 1.2.2+ebf9ebe5   of OpenTap.VSSdk.Installer.dll
+2022-01-24 09:21:38.007623 ; PluginManager  ; Debug       ; Searched 23 Assemblies. [1.20 s]
+2022-01-24 09:21:38.084624 ; PluginManager  ; Debug       ; Loaded OpenTap. [1.05 ms]
+2022-01-24 09:21:38.091624 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [1.06 ms]
+2022-01-24 09:21:38.370625 ; GUI            ; Debug       ; Loaded Light Theme. [38.0 ms]
+2022-01-24 09:21:39.182716 ; Resolver       ; Debug       ; Found match for AvalonDock, Version=4.60.0.0, Culture=neutral, PublicKeyToken=3e4669d2f30244f4 in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Dependencies\AvalonDock.4.60.0.0\AvalonDock.dll
+2022-01-24 09:21:39.423717 ; Settings       ; Debug       ; No settings file exists for GuiControlsSettings. A new instance with default values has been created. [6.76 ms]
+2022-01-24 09:21:39.424717 ; Main           ; Debug       ; Window initial dimensions: 1024px, 768px.
+2022-01-24 09:21:39.467727 ; Settings       ; Debug       ; No settings file exists for EngineSettings. A new instance with default values has been created. [36.6 ms]
+2022-01-24 09:21:39.526735 ; Session        ; Debug       ; Session log loaded as 'SessionLogs\SessionLog 2022-01-24 09-21-39.txt'. [11.6 ms]
+2022-01-24 09:21:39.598719 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [555 us]
+2022-01-24 09:21:39.643719 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [45.0 ms]
+2022-01-24 09:21:39.683822 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [17.0 ms]
+2022-01-24 09:21:39.817822 ; PluginManager  ; Debug       ; Loaded mscorlib. [900 ns]
+2022-01-24 09:21:40.437126 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [3.48 ms]
+2022-01-24 09:21:40.713269 ; Settings       ; Debug       ; No settings file exists for PanelSettings. A new instance with default values has been created. [450 us]
+2022-01-24 09:21:41.267207 ; PluginManager  ; Debug       ; Loaded PackageManager. [624 us]
+2022-01-24 09:21:41.269204 ; PluginManager  ; Debug       ; Loaded Editor. [91.1 us]
+2022-01-24 09:21:41.294754 ; PluginManager  ; Debug       ; Loaded ResultsViewer. [24.3 ms]
+2022-01-24 09:21:41.315296 ; PluginManager  ; Debug       ; Loaded RunExplorer. [19.9 ms]
+2022-01-24 09:21:41.367322 ; PluginManager  ; Debug       ; Loaded TimingAnalyzer. [50.8 ms]
+2022-01-24 09:21:41.533519 ; PluginManager  ; Debug       ; Loaded PresentationFramework. [800 ns]
+2022-01-24 09:21:41.632624 ; Main           ; Debug       ; GUI initialized. [2.20 s]
+2022-01-24 09:21:41.632624 ; Main           ; Debug       ; Docking manager initialized. [118 us]
+2022-01-24 09:21:41.769755 ; Settings       ; Debug       ; No settings file exists for ConnectionSettings. A new instance with default values has been created. [2.65 ms]
+2022-01-24 09:21:41.771757 ; Settings       ; Debug       ; No settings file exists for DutSettings. A new instance with default values has been created. [909 us]
+2022-01-24 09:21:41.772757 ; Settings       ; Debug       ; No settings file exists for InstrumentSettings. A new instance with default values has been created. [779 us]
+2022-01-24 09:21:41.773772 ; Settings       ; Debug       ; No settings file exists for ResultSettings. A new instance with default values has been created. [1.23 ms]
+2022-01-24 09:21:41.828786 ; Resolver       ; Debug       ; Found match for Keysight.Kal.Licensing.Api, Version=4.0.0.0, Culture=neutral, PublicKeyToken=55333af07c70062e in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Dependencies\Keysight.Kal.Licensing.Api.4.0.0.0\Keysight.Kal.Licensing.Api.dll
+2022-01-24 09:21:42.570158 ; Main           ; Debug       ; Update check complete. [928 ms]
+2022-01-24 09:21:44.152954 ; Resolver       ; Debug       ; Found match for Keysight.Ccl.Licensing.Api, Version=5.2.0.5231, Culture=neutral, PublicKeyToken=55333af07c70062e in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Dependencies\Keysight.Ccl.Licensing.Api.5.3.2.19\Keysight.Ccl.Licensing.Api.dll
+2022-01-24 09:21:45.100434 ; Resolver       ; Debug       ; Found 23/87 assembly files. [39.4 ms]
+2022-01-24 09:21:45.100434 ; Resolver       ; Debug       ; Unable to find match for Keysight.Ftl.Licensing.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=55333af07c70062e
+2022-01-24 09:21:45.125445 ; OpenTAP        ; Information ; OpenTAP version '9.16.4+654f0b6b' 64-bit initialized 01/24/2022 [12.2 s]
+2022-01-24 09:21:45.576672 ; Main           ; Debug       ; Application startup finished. [12.6 s]
+2022-01-24 09:21:49.234628 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\GUI Controls.xml [124 ms]
+2022-01-24 09:21:49.243631 ; Settings       ; Debug       ; Saved PanelSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\GUI Panels.xml [5.40 ms]
+2022-01-24 09:21:49.250635 ; Settings       ; Debug       ; Saved EditorSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Editor.xml [6.64 ms]
+2022-01-24 09:21:51.931119 ; PluginManager  ; Debug       ; Loaded Oscilloscope. [121 ms]
+2022-01-24 09:22:25.571490 ; Settings       ; Debug       ; Saved ConnectionSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Bench\Default\Connections.xml [3.95 ms]
+2022-01-24 09:22:25.576499 ; Settings       ; Debug       ; Saved DutSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Bench\Default\DUTs.xml [3.89 ms]
+2022-01-24 09:22:25.583495 ; Settings       ; Debug       ; Saved EditorSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Editor.xml [4.14 ms]
+2022-01-24 09:22:25.617512 ; Settings       ; Debug       ; Saved EngineSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Engine.xml [33.2 ms]
+2022-01-24 09:22:25.626519 ; Settings       ; Debug       ; Saved InstrumentSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Bench\Default\Instruments.xml [8.69 ms]
+2022-01-24 09:22:25.631519 ; Settings       ; Debug       ; Saved ResultSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Results.xml [3.48 ms]
+2022-01-24 09:22:25.679561 ; Main           ; Debug       ; Reloaded test plan. [22.5 ms]
+2022-01-24 09:22:28.609574 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\GUI Controls.xml [7.49 ms]
+2022-01-24 09:22:28.612611 ; Settings       ; Debug       ; Saved PanelSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\GUI Panels.xml [2.31 ms]
+2022-01-24 09:22:28.616518 ; Settings       ; Debug       ; Saved EditorSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Editor.xml [3.04 ms]
+2022-01-24 09:22:35.797054 ; Settings       ; Debug       ; Saved ConnectionSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Bench\Default\Connections.xml [2.33 ms]
+2022-01-24 09:22:35.799055 ; Settings       ; Debug       ; Saved DutSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Bench\Default\DUTs.xml [2.07 ms]
+2022-01-24 09:22:35.802050 ; Settings       ; Debug       ; Saved EditorSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Editor.xml [2.60 ms]
+2022-01-24 09:22:35.807056 ; Settings       ; Debug       ; Saved EngineSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Engine.xml [3.90 ms]
+2022-01-24 09:22:35.813169 ; Settings       ; Debug       ; Saved InstrumentSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Bench\Default\Instruments.xml [6.29 ms]
+2022-01-24 09:22:35.816169 ; Settings       ; Debug       ; Saved ResultSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Results.xml [2.12 ms]
+2022-01-24 09:22:35.834343 ; Main           ; Debug       ; Reloaded test plan. [8.40 ms]
+2022-01-24 09:40:27.863403 ; Settings       ; Debug       ; Saved GuiControlsSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\GUI Controls.xml [10.8 ms]
+2022-01-24 09:40:27.871402 ; Settings       ; Debug       ; Saved PanelSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\GUI Panels.xml [3.19 ms]
+2022-01-24 09:40:27.877406 ; Settings       ; Debug       ; Saved EditorSettings to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Settings\Editor.xml [4.67 ms]

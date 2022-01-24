@@ -1,0 +1,32 @@
+﻿2022-01-24 09:20:02.484005 ; Session        ; Debug       ; Session log loaded as 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\SessionLogs\tap 2022-01-24 09-20-01.txt'. [12.4 ms]
+2022-01-24 09:20:02.517004 ; Session        ; Debug       ; Running '"C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\tap.exe" path register --verbose ' in 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug'.
+2022-01-24 09:20:02.569008 ; Session        ; Debug       ; Microsoft Windows 10.0.19042 X64
+2022-01-24 09:20:02.570014 ; Session        ; Debug       ; .NET Framework 4.8.4420.0
+2022-01-24 09:20:02.594005 ; Resolver       ; Debug       ; Found 17/64 assembly files. [32.2 ms]
+2022-01-24 09:20:02.603006 ; Session        ; Debug       ; OpenTAP Engine 9.16.4+654f0b6b X64
+2022-01-24 09:20:02.701003 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-01-24 09:20:02.805013 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-01-24 09:20:02.959005 ; Searcher       ; Debug       ; Ordered 15 assemblies according to references. [356 ms]
+2022-01-24 09:20:03.096103 ; PluginManager  ; Debug       ; Found 11 plugin assemblies containing 217 plugin types. [496 ms]
+2022-01-24 09:20:03.096103 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.dll
+2022-01-24 09:20:03.096103 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Package.dll
+2022-01-24 09:20:03.096103 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Plugins.BasicSteps.dll
+2022-01-24 09:20:03.096103 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-01-24 09:20:03.096103 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-01-24 09:20:03.096103 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Sdk.New.dll
+2022-01-24 09:20:03.096103 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-01-24 09:20:03.096103 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-01-24 09:20:03.096103 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-01-24 09:20:03.096103 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of Keysight.OpenTap.Wpf.dll
+2022-01-24 09:20:03.096103 ; PluginManager  ; Debug       ; Found version 1.2.2+ebf9ebe5   of OpenTap.VSSdk.Installer.dll
+2022-01-24 09:20:03.096103 ; PluginManager  ; Debug       ; Searched 17 Assemblies. [496 ms]
+2022-01-24 09:20:03.169324 ; PluginManager  ; Debug       ; Loaded OpenTap. [546 us]
+2022-01-24 09:20:03.190422 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [16.6 ms]
+2022-01-24 09:20:03.231326 ; Settings       ; Debug       ; No settings file exists for EngineSettings. A new instance with default values has been created. [8.97 ms]
+2022-01-24 09:20:03.275328 ; Session        ; Debug       ; Session log loaded as 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\SessionLogs\SessionLog 2022-01-24 09-20-01.txt'. [7.50 ms]
+2022-01-24 09:20:03.296093 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [8.88 ms]
+2022-01-24 09:20:03.333621 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [6.12 ms]
+2022-01-24 09:20:03.419628 ; PluginManager  ; Debug       ; Loaded mscorlib. [1.70 us]
+2022-01-24 09:20:03.419628 ; CLI            ; Debug       ; Executing CLI action: path \ register
+2022-01-24 09:20:03.424638 ; PackageAction  ; Information ; Skipping OS Integration (OPENTAP_DEBUG_INSTALL environment variable is set).
+2022-01-24 09:20:03.424638 ; CLI            ; Debug       ; CLI action returned exit code: 0 [4.79 ms]

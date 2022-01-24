@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0MgQWBIg/FYoYQezcvfjf41+4uR0TfPnRipF7ug7yOC9hNs56JObPGfCGds8vnCEROViv68wHUmnkgktY5qHwA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\seokchoi\\source\\repos\\Oscilloscope\\Oscilloscope\\Oscilloscope.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seokchoi\\.nuget\\packages\\opentap\\9.16.4\\opentap.9.16.4.nupkg.sha512"
+  ],
+  "logs": []
+}

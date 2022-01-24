@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package Date="12/07/2021 13:45:37" LicenseRequired="(KS8001A&amp;KS8002A&amp;KS8003A)|KS8400A|TAP_Editor" Class="bundle" Name="Developer's System" Version="9.16.5+1527f98a" Architecture="AnyCPU" OS="Windows" xmlns="http://opentap.io/schemas/package">
+  <Hash>DA39A3EE5E6B4B0D3255BFEF95601890AFD80709</Hash>
+  <Description>The Keysight KS8400A/KS8400B Test Automation Developer’s System for OpenTAP provides powerful, flexible and extensible test sequence and test plan creation with additional capabilities that optimize your test software development and overall performance. 
+   <Status>Released</Status><Organisation>Keysight Technologies</Organisation></Description>
+  <Dependencies>
+    <PackageDependency Package="OpenTAP" Version="Any" />
+    <PackageDependency Package="Editor" Version="Any" />
+    <PackageDependency Package="WPF Controls" Version="Any" />
+    <PackageDependency Package="Results Viewer" Version="Any" />
+    <PackageDependency Package="Timing Analyzer" Version="Any" />
+    <PackageDependency Package="CSV" Version="Any" />
+    <PackageDependency Package="SQLite and PostgreSQL" Version="Any" />
+    <PackageDependency Package="Keysight Fixed Licensing" Version="^1.4.1" />
+    <PackageDependency Package="Keysight Floating Licensing" Version="^1.4.1" />
+    <PackageDependency Package="SDK" Version="Any" />
+    <PackageDependency Package="Visual Studio SDK" Version="Any" />
+  </Dependencies>
+  <Owner>Keysight Technologies, Inc.</Owner>
+</Package>

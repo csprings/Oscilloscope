@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package InfoLink="http://www.keysight.com/find/TAP" Date="11/12/2021 15:24:39" LicenseRequired="" Name="Keysight Fixed Licensing" Version="1.4.1+e5816333" Architecture="AnyCPU" OS="Windows" xmlns="http://opentap.io/schemas/package">
+  <Description>This package contains the license components needed for fixed licensed plugins. Fixed licenses are also know as node-locked licenses and are tied to the PC host ID.
+    <Status>Released</Status><Organisation>Keysight Technologies</Organisation></Description>
+  <Owner>Keysight Technologies, Inc.</Owner>
+  <Files>
+    <File Path="Dependencies/Keysight.Ccl.Licensing.Api.5.3.2.19/Keysight.Ccl.Licensing.Api.dll">
+      <Hash>B80lEaAI8/JEHbeVIjm/INtRkU0=</Hash>
+    </File>
+  </Files>
+</Package>

@@ -1,0 +1,9 @@
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Oscilloscope.dll
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\Oscilloscope.pdb
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Debug\OpenTap.dll
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\obj\Debug\Oscilloscope.csproj.AssemblyReference.cache
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\obj\Debug\Oscilloscope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\obj\Debug\Oscilloscope.csproj.CoreCompileInputs.cache
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\obj\Debug\Oscilloscope.csproj.CopyComplete
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\obj\Debug\Oscilloscope.dll
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\obj\Debug\Oscilloscope.pdb
