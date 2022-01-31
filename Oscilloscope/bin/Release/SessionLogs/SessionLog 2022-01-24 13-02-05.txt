@@ -1,0 +1,22 @@
+﻿2022-01-24 13:02:07.263052 ; Session        ; Debug       ; Session log loaded as 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\SessionLogs\tap 2022-01-24 13-02-05.txt'. [9.52 ms]
+2022-01-24 13:02:07.296054 ; Session        ; Debug       ; Running '"tap.exe" package install --dependencies "Developer's System" -r "packages.opentap.io" --non-interactive' in 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release'.
+2022-01-24 13:02:07.343058 ; Session        ; Debug       ; Microsoft Windows 10.0.19042 X64
+2022-01-24 13:02:07.343058 ; Session        ; Debug       ; .NET Framework 4.8.4420.0
+2022-01-24 13:02:07.354791 ; Resolver       ; Debug       ; Found 5/18 assembly files. [15.4 ms]
+2022-01-24 13:02:07.382797 ; Session        ; Debug       ; OpenTAP Engine 9.16.4+654f0b6b X64
+2022-01-24 13:02:07.480317 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-01-24 13:02:07.604316 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-01-24 13:02:07.788314 ; Searcher       ; Debug       ; Ordered 5 assemblies according to references. [421 ms]
+2022-01-24 13:02:07.929313 ; PluginManager  ; Debug       ; Found 3 plugin assemblies containing 152 plugin types. [566 ms]
+2022-01-24 13:02:07.929313 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.dll
+2022-01-24 13:02:07.929313 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Package.dll
+2022-01-24 13:02:07.929313 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Plugins.BasicSteps.dll
+2022-01-24 13:02:07.929313 ; PluginManager  ; Debug       ; Searched 5 Assemblies. [567 ms]
+2022-01-24 13:02:08.002348 ; PluginManager  ; Debug       ; Loaded OpenTap. [595 us]
+2022-01-24 13:02:08.040318 ; Settings       ; Debug       ; No settings file exists for EngineSettings. A new instance with default values has been created. [11.0 ms]
+2022-01-24 13:02:08.083312 ; Session        ; Debug       ; Session log loaded as 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\SessionLogs\SessionLog 2022-01-24 13-02-05.txt'. [5.47 ms]
+2022-01-24 13:02:08.104316 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [9.47 ms]
+2022-01-24 13:02:08.163390 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [8.82 ms]
+2022-01-24 13:02:08.290341 ; PluginManager  ; Debug       ; Loaded mscorlib. [1.10 us]
+2022-01-24 13:02:08.568935 ; CLI            ; Debug       ; Executing CLI action: package \ install
+2022-01-24 13:02:09.073458 ; CLI            ; Debug       ; CLI action returned exit code: 0 [503 ms]

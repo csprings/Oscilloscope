@@ -1,0 +1,8 @@
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Oscilloscope.deps.json
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Oscilloscope.dll
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Oscilloscope.pdb
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\obj\Release\Oscilloscope.csproj.AssemblyReference.cache
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\obj\Release\Oscilloscope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\obj\Release\Oscilloscope.csproj.CoreCompileInputs.cache
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\obj\Release\Oscilloscope.dll
+C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\obj\Release\Oscilloscope.pdb

@@ -1,0 +1,372 @@
+﻿2022-01-24 13:02:11.041439 ; Session        ; Debug       ; Session log loaded as 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\SessionLogs\tap 2022-01-24 13-02-09.txt'. [17.0 ms]
+2022-01-24 13:02:11.095439 ; Session        ; Debug       ; Running '"C:\Users\seokchoi\AppData\Local\Temp\nnhw2ax0.xx2\tap.exe" package install --dependencies "Developer's System" -r "packages.opentap.io" --non-interactive --target "C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release"' in 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release'.
+2022-01-24 13:02:11.209439 ; Session        ; Debug       ; Microsoft Windows 10.0.19042 X64
+2022-01-24 13:02:11.209439 ; Session        ; Debug       ; .NET Framework 4.8.4420.0
+2022-01-24 13:02:11.235448 ; Resolver       ; Debug       ; Found 5/18 assembly files. [39.0 ms]
+2022-01-24 13:02:11.274441 ; Session        ; Debug       ; OpenTAP Engine 9.16.4+654f0b6b X64
+2022-01-24 13:02:11.429436 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\seokchoi\AppData\Local\Temp\nnhw2ax0.xx2\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-01-24 13:02:11.564501 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\seokchoi\AppData\Local\Temp\nnhw2ax0.xx2\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-01-24 13:02:11.755335 ; Searcher       ; Debug       ; Ordered 5 assemblies according to references. [500 ms]
+2022-01-24 13:02:11.910459 ; PluginManager  ; Debug       ; Found 3 plugin assemblies containing 152 plugin types. [663 ms]
+2022-01-24 13:02:11.910459 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.dll
+2022-01-24 13:02:11.910459 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Package.dll
+2022-01-24 13:02:11.911458 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Plugins.BasicSteps.dll
+2022-01-24 13:02:11.911458 ; PluginManager  ; Debug       ; Searched 5 Assemblies. [665 ms]
+2022-01-24 13:02:12.007469 ; PluginManager  ; Debug       ; Loaded OpenTap. [1.66 ms]
+2022-01-24 13:02:12.043459 ; Settings       ; Debug       ; No settings file exists for EngineSettings. A new instance with default values has been created. [13.5 ms]
+2022-01-24 13:02:12.093459 ; Session        ; Debug       ; Session log loaded as 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\SessionLogs\SessionLog 2022-01-24 13-02-09.txt'. [8.85 ms]
+2022-01-24 13:02:12.117455 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [9.93 ms]
+2022-01-24 13:02:12.178456 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [8.90 ms]
+2022-01-24 13:02:12.310458 ; PluginManager  ; Debug       ; Loaded mscorlib. [800 ns]
+2022-01-24 13:02:12.577591 ; CLI            ; Debug       ; Executing CLI action: package \ install
+2022-01-24 13:02:13.115036 ; CLI            ; Debug       ; Executing CLI action: package \ check-updates
+2022-01-24 13:02:13.123031 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [2.20 ms]
+2022-01-24 13:02:13.123031 ; CLI            ; Debug       ; CLI action returned exit code: 0 [7.64 ms]
+2022-01-24 13:02:13.132774 ; PackageAction  ; Debug       ; Fetching package information...
+2022-01-24 13:02:13.661308 ; PackageAction  ; Debug       ; Found package Developer's System version 9.16.5+1527f98a [426 ms]
+2022-01-24 13:02:13.661837 ; PackageAction  ; Debug       ; Resolving dependencies.
+2022-01-24 13:02:16.473531 ; PackageAction  ; Debug       ; Adding dependency Editor 9.16.5+1527f98a
+2022-01-24 13:02:16.473531 ; PackageAction  ; Debug       ; Adding dependency OSIntegration 1.4.0+c70929ac
+2022-01-24 13:02:16.473531 ; PackageAction  ; Debug       ; Adding dependency WPF Controls 9.16.5+1527f98a
+2022-01-24 13:02:16.473531 ; PackageAction  ; Debug       ; Adding dependency Keysight Floating Licensing 1.4.1+e5816333
+2022-01-24 13:02:16.473531 ; PackageAction  ; Debug       ; Adding dependency Results Viewer 9.16.5+1527f98a
+2022-01-24 13:02:16.473531 ; PackageAction  ; Debug       ; Adding dependency CSV 9.11.0+98498e58
+2022-01-24 13:02:16.473531 ; PackageAction  ; Debug       ; Adding dependency Timing Analyzer 9.16.5+1527f98a
+2022-01-24 13:02:16.473531 ; PackageAction  ; Debug       ; Adding dependency SQLite and PostgreSQL 9.4.2+3009aace
+2022-01-24 13:02:16.473531 ; PackageAction  ; Debug       ; Adding dependency Keysight Fixed Licensing 1.4.1+e5816333
+2022-01-24 13:02:16.473531 ; PackageAction  ; Debug       ; Adding dependency SDK 9.16.4+654f0b6b
+2022-01-24 13:02:16.473531 ; PackageAction  ; Debug       ; Adding dependency Visual Studio SDK 1.2.2+ebf9ebe5
+2022-01-24 13:02:17.757531 ; PackageAction  ; Debug       ; Downloading 'Visual Studio SDK' version '1.2.2+ebf9ebe5' from 'https://packages.opentap.io'
+2022-01-24 13:02:19.133321 ; PackageAction  ; Information ; Downloaded 'Visual Studio SDK' to 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\Visual Studio SDK.1.2.2+ebf9ebe5.TapPackage'. [2.60 s]
+2022-01-24 13:02:19.290288 ; PackageAction  ; Debug       ; Downloading 'SDK' version '9.16.4+654f0b6b' from 'https://packages.opentap.io'
+2022-01-24 13:02:24.798567 ; PackageAction  ; Information ; Downloaded 'SDK' to 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\SDK.9.16.4+654f0b6b.Windows,Linux.TapPackage'. [5.66 s]
+2022-01-24 13:02:24.960680 ; PackageAction  ; Debug       ; Downloading 'Keysight Fixed Licensing' version '1.4.1+e5816333' from 'https://packages.opentap.io'
+2022-01-24 13:02:26.061835 ; PackageAction  ; Information ; Downloaded 'Keysight Fixed Licensing' to 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\Keysight Fixed Licensing.1.4.1+e5816333.TapPackage'. [1.26 s]
+2022-01-24 13:02:26.219222 ; PackageAction  ; Debug       ; Downloading 'SQLite and PostgreSQL' version '9.4.2+3009aace' from 'https://packages.opentap.io'
+2022-01-24 13:02:29.670247 ; PackageAction  ; Information ; Downloaded 'SQLite and PostgreSQL' to 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\SQLite and PostgreSQL.9.4.2+3009aace.TapPackage'. [3.60 s]
+2022-01-24 13:02:29.827213 ; PackageAction  ; Debug       ; Downloading 'Timing Analyzer' version '9.16.5+1527f98a' from 'https://packages.opentap.io'
+2022-01-24 13:02:34.954449 ; PackageAction  ; Information ; Downloaded 'Timing Analyzer' to 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\Timing Analyzer.9.16.5+1527f98a.x64.TapPackage'. [5.28 s]
+2022-01-24 13:02:35.164883 ; PackageAction  ; Debug       ; Downloading 'CSV' version '9.11.0+98498e58' from 'https://packages.opentap.io'
+2022-01-24 13:02:35.873297 ; PackageAction  ; Information ; Downloaded 'CSV' to 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\CSV.9.11.0+98498e58.Windows,Linux.TapPackage'. [918 ms]
+2022-01-24 13:02:36.056506 ; PackageAction  ; Debug       ; Downloading 'Results Viewer' version '9.16.5+1527f98a' from 'https://packages.opentap.io'
+2022-01-24 13:02:43.360847 ; PackageAction  ; Information ; Downloaded 'Results Viewer' to 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\Results Viewer.9.16.5+1527f98a.x64.TapPackage'. [7.48 s]
+2022-01-24 13:02:43.563338 ; PackageAction  ; Debug       ; Downloading 'Keysight Floating Licensing' version '1.4.1+e5816333' from 'https://packages.opentap.io'
+2022-01-24 13:02:49.720459 ; PackageAction  ; Information ; Downloaded 'Keysight Floating Licensing' to 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\Keysight Floating Licensing.1.4.1+e5816333.TapPackage'. [6.35 s]
+2022-01-24 13:02:49.882361 ; PackageAction  ; Debug       ; Downloading 'WPF Controls' version '9.16.5+1527f98a' from 'https://packages.opentap.io'
+2022-01-24 13:02:54.754526 ; PackageAction  ; Information ; Downloaded 'WPF Controls' to 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\WPF Controls.9.16.5+1527f98a.TapPackage'. [5.03 s]
+2022-01-24 13:02:54.913787 ; PackageAction  ; Debug       ; Downloading 'OSIntegration' version '1.4.0+c70929ac' from 'https://packages.opentap.io'
+2022-01-24 13:02:55.583861 ; PackageAction  ; Information ; Downloaded 'OSIntegration' to 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\OSIntegration.1.4.0+c70929ac.TapPackage'. [829 ms]
+2022-01-24 13:02:55.751576 ; PackageAction  ; Debug       ; Downloading 'Editor' version '9.16.5+1527f98a' from 'https://packages.opentap.io'
+2022-01-24 13:03:00.901823 ; PackageAction  ; Information ; Downloaded 'Editor' to 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\Editor.9.16.5+1527f98a.x64.TapPackage'. [5.31 s]
+2022-01-24 13:03:01.042986 ; PackageAction  ; Debug       ; Downloading 'Developer's System' version '9.16.5+1527f98a' from 'https://packages.opentap.io'
+2022-01-24 13:03:01.551985 ; PackageAction  ; Information ; Downloaded 'Developer's System' to 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\Developer's System.9.16.5+1527f98a.TapPackage'. [649 ms]
+2022-01-24 13:03:01.553991 ; PackageAction  ; Information ; Installing to C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release
+2022-01-24 13:03:01.798987 ; Installer      ; Information ; Installing C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\SDK.9.16.4+654f0b6b.Windows,Linux.TapPackage
+2022-01-24 13:03:01.839983 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Keysight.OpenTap.Sdk.MSBuild.dll [11.9 ms]
+2022-01-24 13:03:01.846985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/OpenTap.Sdk.New.dll [7.03 ms]
+2022-01-24 13:03:01.865983 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/OpenTap.xml [18.6 ms]
+2022-01-24 13:03:01.872985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/OpenTap.Package.xml [7.10 ms]
+2022-01-24 13:03:01.876982 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/PackageSchema.xsd [3.47 ms]
+2022-01-24 13:03:01.978983 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/OpenTAP Developer Guide.pdf [102 ms]
+2022-01-24 13:03:01.983989 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/.OpenTapIgnore [5.36 ms]
+2022-01-24 13:03:01.991985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/.HiddenFile.txt [7.44 ms]
+2022-01-24 13:03:01.997987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/.HiddenFolder/Empty.txt [6.22 ms]
+2022-01-24 13:03:02.003985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/Examples.sln [5.24 ms]
+2022-01-24 13:03:02.006987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/Directory.Build.props [3.47 ms]
+2022-01-24 13:03:02.012986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/ExamplePlugin/ExamplePlugin.csproj [6.35 ms]
+2022-01-24 13:03:02.021986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/ExamplePlugin/GeneratorInstrument.cs [8.55 ms]
+2022-01-24 13:03:02.030989 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/ExamplePlugin/LowPassFilterDut.cs [8.44 ms]
+2022-01-24 13:03:02.034983 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/ExamplePlugin/MeasurePeakAmplitudeTestStep.cs [4.51 ms]
+2022-01-24 13:03:02.041985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/ExamplePlugin/package.xml [7.23 ms]
+2022-01-24 13:03:02.050987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/ExamplePlugin/SomeSampleData.txt [8.53 ms]
+2022-01-24 13:03:02.057985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/ExamplePlugin/Properties/AssemblyInfo.cs [6.78 ms]
+2022-01-24 13:03:02.062985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/ExamplePlugin/Properties/launchSettings.json [4.94 ms]
+2022-01-24 13:03:02.071987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/package.xml [9.02 ms]
+2022-01-24 13:03:02.077986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/PluginDevelopment.csproj [6.12 ms]
+2022-01-24 13:03:02.085988 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/Advanced Examples/AttachedPropertyExample.cs [7.35 ms]
+2022-01-24 13:03:02.088984 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/Advanced Examples/BreakSerializerExample.cs [3.40 ms]
+2022-01-24 13:03:02.093992 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/Advanced Examples/ComplexSettingsExample1.cs [4.71 ms]
+2022-01-24 13:03:02.097985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/Advanced Examples/ComplexSettingsExample2.cs [3.43 ms]
+2022-01-24 13:03:02.100988 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/Advanced Examples/MenuModelExample.cs [3.37 ms]
+2022-01-24 13:03:02.105988 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/GUI/ButtonCreation.cs [5.27 ms]
+2022-01-24 13:03:02.111986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/GUI/CustomBenchSettings.cs [5.92 ms]
+2022-01-24 13:03:02.114986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/GUI/ExampleSettings.cs [2.98 ms]
+2022-01-24 13:03:02.121987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/GUI/IPAnnotation.cs [6.32 ms]
+2022-01-24 13:03:02.128983 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/GUI/TestPlanCustomImportExport.cs [7.20 ms]
+2022-01-24 13:03:02.132988 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/GUI/UserInputExample.cs [3.83 ms]
+2022-01-24 13:03:02.137987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/InstrumentsAndDuts/ConnectionStep.cs [5.24 ms]
+2022-01-24 13:03:02.145994 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/InstrumentsAndDuts/FourPortDut.cs [7.99 ms]
+2022-01-24 13:03:02.149989 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/InstrumentsAndDuts/InterfaceBasedInstrument.cs [4.02 ms]
+2022-01-24 13:03:02.153987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/InstrumentsAndDuts/MeasureUsingConnectionsStep.cs [3.35 ms]
+2022-01-24 13:03:02.157985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/InstrumentsAndDuts/ResourceTopology.cs [4.33 ms]
+2022-01-24 13:03:02.160986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/InstrumentsAndDuts/ScpiInstrumentExample.cs [2.84 ms]
+2022-01-24 13:03:02.164989 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/InstrumentsAndDuts/SetSwitchMatrixStep.cs [3.66 ms]
+2022-01-24 13:03:02.167986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/InstrumentsAndDuts/SetSwitchStep.cs [2.98 ms]
+2022-01-24 13:03:02.171995 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/InstrumentsAndDuts/SimpleDut.cs [3.98 ms]
+2022-01-24 13:03:02.180985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/InstrumentsAndDuts/SimpleInstrument.cs [9.35 ms]
+2022-01-24 13:03:02.185985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/InstrumentsAndDuts/SwitchMatrixInstrument.cs [4.19 ms]
+2022-01-24 13:03:02.188987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/InstrumentsAndDuts/TwoPortInstrument.cs [3.21 ms]
+2022-01-24 13:03:02.191986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/InstrumentsAndDuts/TwoPositionSwitchInstrument.cs [2.84 ms]
+2022-01-24 13:03:02.193985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/InstrumentsAndDuts/UsingDutAndInstStep.cs [2.53 ms]
+2022-01-24 13:03:02.198987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/Properties/AssemblyInfo.cs [4.33 ms]
+2022-01-24 13:03:02.201984 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/Properties/launchSettings.json [2.91 ms]
+2022-01-24 13:03:02.206984 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/ResultListeners/EventResultListener.cs [5.05 ms]
+2022-01-24 13:03:02.209983 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/ResultListeners/ExampleResultListener.cs [2.66 ms]
+2022-01-24 13:03:02.214986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Attributes/AvailableValuesAttributeExample.cs [5.84 ms]
+2022-01-24 13:03:02.219984 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Attributes/BrowsableAttributeExample.cs [4.96 ms]
+2022-01-24 13:03:02.225985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Attributes/ColumnDisplayAttributeExample.cs [5.56 ms]
+2022-01-24 13:03:02.228987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Attributes/DefaultValueExample.cs [2.85 ms]
+2022-01-24 13:03:02.231988 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Attributes/DisplayAttributeExample.cs [3.20 ms]
+2022-01-24 13:03:02.235987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Attributes/DynamicNameDisplayAttribute.cs [3.96 ms]
+2022-01-24 13:03:02.238984 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Attributes/EmbedPropertiesAttributeExample.cs [2.98 ms]
+2022-01-24 13:03:02.241986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Attributes/EnabledIfAttributeExample.cs [3.06 ms]
+2022-01-24 13:03:02.245988 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Attributes/FlagsAttributeExample.cs [3.22 ms]
+2022-01-24 13:03:02.248984 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Attributes/PathAttributeExample.cs [2.94 ms]
+2022-01-24 13:03:02.251986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Attributes/ResourceOpenAttributeExample.cs [3.20 ms]
+2022-01-24 13:03:02.254986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Attributes/ScpiAttributeExample.cs [3.36 ms]
+2022-01-24 13:03:02.260985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Attributes/UnitAttributeExample.cs [5.22 ms]
+2022-01-24 13:03:02.264987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Attributes/XmlIgnoreAttributeExample.cs [3.98 ms]
+2022-01-24 13:03:02.268983 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/InputOutput/GenerateOutput.cs [4.46 ms]
+2022-01-24 13:03:02.274006 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/InputOutput/HandleInput.cs [5.00 ms]
+2022-01-24 13:03:02.278984 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/ParentChild/ChildSeekingResources.cs [4.59 ms]
+2022-01-24 13:03:02.281986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/ParentChild/ParentAnyChildren.cs [3.29 ms]
+2022-01-24 13:03:02.285987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/ParentChild/ParentWithResources.cs [3.20 ms]
+2022-01-24 13:03:02.289986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/PublishResults/ResultsForXyArray.cs [4.41 ms]
+2022-01-24 13:03:02.294986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/PublishResults/ResultsWithCustomClass.cs [5.11 ms]
+2022-01-24 13:03:02.299983 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/PublishResults/SetOfNameValuePairs.cs [5.01 ms]
+2022-01-24 13:03:02.302988 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/PublishResults/SingleNameValuePair.cs [3.01 ms]
+2022-01-24 13:03:02.307990 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Step Execution/AbortsTheTestPlan.cs [4.70 ms]
+2022-01-24 13:03:02.310984 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Step Execution/AccessingComponentSettings.cs [3.23 ms]
+2022-01-24 13:03:02.314987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Step Execution/DeferTaskStep.cs [3.05 ms]
+2022-01-24 13:03:02.317985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Step Execution/LogMessages.cs [3.38 ms]
+2022-01-24 13:03:02.320984 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Step Execution/OfferBreakExample.cs [2.74 ms]
+2022-01-24 13:03:02.325992 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Step Execution/SetVerdict.cs [5.07 ms]
+2022-01-24 13:03:02.330984 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Step Settings/EnabledCheckBoxes.cs [4.61 ms]
+2022-01-24 13:03:02.332984 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Step Settings/ListOfObjects.cs [2.70 ms]
+2022-01-24 13:03:02.336986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Step Settings/ReadOnlyListExample.cs [3.49 ms]
+2022-01-24 13:03:02.339985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment/TestSteps/Step Settings/RuleValidation.cs [2.56 ms]
+2022-01-24 13:03:02.343986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment.Gui/PluginDevelopment.Gui.csproj [4.40 ms]
+2022-01-24 13:03:02.352987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment.Gui/Properties/AssemblyInfo.cs [9.30 ms]
+2022-01-24 13:03:02.355984 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment.Gui/Properties/launchSettings.json [2.92 ms]
+2022-01-24 13:03:02.361986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment.Gui/GUI/CustomControlProvider.cs [5.62 ms]
+2022-01-24 13:03:02.364988 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment.Gui/GUI/DockablePanel.cs [3.17 ms]
+2022-01-24 13:03:02.368985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment.Gui/GUI/ResultXYChartExample.cs [3.15 ms]
+2022-01-24 13:03:02.370985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/PluginDevelopment.Gui/GUI/ToolsMenu.cs [2.52 ms]
+2022-01-24 13:03:02.378987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/TestPlanExecution/BuildTestPlan.Api/BuildTestPlan.Api.csproj [7.67 ms]
+2022-01-24 13:03:02.381984 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/TestPlanExecution/BuildTestPlan.Api/Program.cs [2.69 ms]
+2022-01-24 13:03:02.385985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/TestPlanExecution/BuildTestPlan.Api/Properties/AssemblyInfo.cs [4.46 ms]
+2022-01-24 13:03:02.390988 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/TestPlanExecution/RunTestPlan.Api/Program.cs [4.61 ms]
+2022-01-24 13:03:02.393986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/TestPlanExecution/RunTestPlan.Api/RunTestPlan.Api.csproj [3.42 ms]
+2022-01-24 13:03:02.399990 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/Examples/TestPlanExecution/RunTestPlan.Api/Properties/AssemblyInfo.cs [5.34 ms]
+2022-01-24 13:03:02.432986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/Microsoft.Build.Utilities.Core.15.1.0.0/Microsoft.Build.Utilities.Core.dll [33.2 ms]
+2022-01-24 13:03:02.444986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/Microsoft.Build.Framework.15.1.0.0/Microsoft.Build.Framework.dll [11.9 ms]
+2022-01-24 13:03:02.564986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/Microsoft.Build.15.1.0.0/Microsoft.Build.dll [120 ms]
+2022-01-24 13:03:02.582989 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Threading.Tasks.Dataflow.4.5.24.0/System.Threading.Tasks.Dataflow.dll [17.5 ms]
+2022-01-24 13:03:02.587982 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Runtime.4.1.2.0/System.Runtime.dll [4.88 ms]
+2022-01-24 13:03:02.594987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Threading.Tasks.4.0.11.0/System.Threading.Tasks.dll [7.53 ms]
+2022-01-24 13:03:02.602986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Diagnostics.Tracing.4.2.0.0/System.Diagnostics.Tracing.dll [7.31 ms]
+2022-01-24 13:03:02.611986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Collections.Concurrent.4.0.11.0/System.Collections.Concurrent.dll [9.00 ms]
+2022-01-24 13:03:02.618985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Dynamic.Runtime.4.0.11.0/System.Dynamic.Runtime.dll [7.39 ms]
+2022-01-24 13:03:02.625987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Collections.4.0.11.0/System.Collections.dll [6.88 ms]
+2022-01-24 13:03:02.632986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Threading.4.0.11.0/System.Threading.dll [6.48 ms]
+2022-01-24 13:03:02.639989 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Resources.ResourceManager.4.0.1.0/System.Resources.ResourceManager.dll [7.20 ms]
+2022-01-24 13:03:02.646982 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Globalization.4.0.11.0/System.Globalization.dll [6.57 ms]
+2022-01-24 13:03:02.653984 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Diagnostics.Debug.4.0.11.0/System.Diagnostics.Debug.dll [7.18 ms]
+2022-01-24 13:03:02.659984 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Runtime.Extensions.4.1.2.0/System.Runtime.Extensions.dll [6.16 ms]
+2022-01-24 13:03:02.665986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Linq.4.1.2.0/System.Linq.dll [5.55 ms]
+2022-01-24 13:03:02.675987 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Diagnostics.Tools.4.0.1.0/System.Diagnostics.Tools.dll [9.82 ms]
+2022-01-24 13:03:02.682986 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Reflection.4.1.2.0/System.Reflection.dll [7.00 ms]
+2022-01-24 13:03:02.685984 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SDK/package.xml [3.35 ms]
+2022-01-24 13:03:02.713987 ; Package        ; Debug       ; Found no custom actions to run at 'install' stage.
+2022-01-24 13:03:02.713987 ; Installer      ; Information ; Installed SDK version 9.16.4+654f0b6b [914 ms]
+2022-01-24 13:03:02.714984 ; Installer      ; Information ; Installing C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\Visual Studio SDK.1.2.2+ebf9ebe5.TapPackage
+2022-01-24 13:03:02.726990 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/Visual Studio SDK/OpenTap.VSSdk.Debugger.dll [8.08 ms]
+2022-01-24 13:03:02.735982 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/Visual Studio SDK/Install/OpenTap.VSSdk.vsix [8.78 ms]
+2022-01-24 13:03:02.741982 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/Visual Studio SDK/Install/OpenTap.VSSdk.Installer.dll [6.56 ms]
+2022-01-24 13:03:02.762985 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/EnvDTE.8.0.0.0/EnvDTE.dll [20.5 ms]
+2022-01-24 13:03:02.771988 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/stdole.7.0.3300.0/stdole.dll [8.84 ms]
+2022-01-24 13:03:02.775988 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/Visual Studio SDK/package.xml [4.40 ms]
+2022-01-24 13:03:02.776985 ; Plugin         ; Information ; Starting install step 'tap.exe sdk vs-integration --install'
+2022-01-24 13:03:05.268785 ; Session        ; Debug       ; Session log loaded as 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\SessionLogs\tap 2022-01-24 13-03-02.txt'. [12.4 ms]
+2022-01-24 13:03:05.268785 ; Session        ; Debug       ; Running '"C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\tap.exe" sdk vs-integration --install --verbose ' in 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release'.
+2022-01-24 13:03:05.268785 ; Session        ; Debug       ; Microsoft Windows 10.0.19042 X64
+2022-01-24 13:03:05.268785 ; Session        ; Debug       ; .NET Framework 4.8.4420.0
+2022-01-24 13:03:05.268785 ; Resolver       ; Debug       ; Found 9/42 assembly files. [38.9 ms]
+2022-01-24 13:03:05.268785 ; Session        ; Debug       ; OpenTAP Engine 9.16.4+654f0b6b X64
+2022-01-24 13:03:05.268785 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-01-24 13:03:05.268785 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-01-24 13:03:05.268785 ; Searcher       ; Debug       ; Ordered 9 assemblies according to references. [494 ms]
+2022-01-24 13:03:05.453367 ; PluginManager  ; Debug       ; Loaded OpenTap. [878 us]
+2022-01-24 13:03:05.453367 ; Settings       ; Debug       ; No settings file exists for EngineSettings. A new instance with default values has been created. [10.4 ms]
+2022-01-24 13:03:05.453367 ; Session        ; Debug       ; Session log loaded as 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\SessionLogs\SessionLog 2022-01-24 13-03-02.txt'. [8.86 ms]
+2022-01-24 13:03:05.563369 ; PluginManager  ; Debug       ; Loaded OpenTap.VSSdk.Installer. [21.1 ms]
+2022-01-24 13:03:05.563369 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [7.04 ms]
+2022-01-24 13:03:05.651371 ; PluginManager  ; Debug       ; Loaded mscorlib. [800 ns]
+2022-01-24 13:03:05.651371 ; CLI            ; Debug       ; Executing CLI action: sdk \ vs-integration
+2022-01-24 13:03:05.651371 ; CLI            ; Debug       ; CLI action returned exit code: 0 [2.09 ms]
+2022-01-24 13:03:05.682370 ; Plugin         ; Information ; Succesfully ran install step  'tap.exe sdk vs-integration --install'.  [2.90 s]
+2022-01-24 13:03:05.682370 ; Package        ; Debug       ; Found no custom actions to run at 'install' stage.
+2022-01-24 13:03:05.682370 ; Installer      ; Information ; Installed Visual Studio SDK version 1.2.2+ebf9ebe5 [2.96 s]
+2022-01-24 13:03:05.682370 ; Installer      ; Information ; Installing C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\Keysight Fixed Licensing.1.4.1+e5816333.TapPackage
+2022-01-24 13:03:05.706368 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/Keysight.Ccl.Licensing.Api.5.3.2.19/Keysight.Ccl.Licensing.Api.dll [21.1 ms]
+2022-01-24 13:03:05.711369 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/Keysight Fixed Licensing/package.xml [4.55 ms]
+2022-01-24 13:03:05.711369 ; Package        ; Debug       ; Found no custom actions to run at 'install' stage.
+2022-01-24 13:03:05.711369 ; Installer      ; Information ; Installed Keysight Fixed Licensing version 1.4.1+e5816333 [29.1 ms]
+2022-01-24 13:03:05.711369 ; Installer      ; Information ; Installing C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\SQLite and PostgreSQL.9.4.2+3009aace.TapPackage
+2022-01-24 13:03:05.742368 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SQLite and PostgreSQL/Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll [25.0 ms]
+2022-01-24 13:03:05.759369 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SQLite and PostgreSQL/Keysight.OpenTap.Plugins.ResultListener.SQLite.dll [15.9 ms]
+2022-01-24 13:03:05.776369 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SQLite and PostgreSQL/Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll [17.5 ms]
+2022-01-24 13:03:05.868368 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/x86/SQLite.Interop.dll [91.7 ms]
+2022-01-24 13:03:05.982367 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/x64/SQLite.Interop.dll [113 ms]
+2022-01-24 13:03:06.007366 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Data.SQLite.1.0.109.0/System.Data.SQLite.dll [25.0 ms]
+2022-01-24 13:03:06.058366 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/Npgsql.4.0.4.0/Npgsql.dll [51.2 ms]
+2022-01-24 13:03:06.067367 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Threading.Tasks.Extensions.4.2.0.0/System.Threading.Tasks.Extensions.dll [8.45 ms]
+2022-01-24 13:03:06.076367 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Runtime.CompilerServices.Unsafe.4.0.4.0/System.Runtime.CompilerServices.Unsafe.dll [8.81 ms]
+2022-01-24 13:03:06.081366 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Runtime.4.1.2.0/System.Runtime.dll [5.02 ms]
+2022-01-24 13:03:06.083369 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/SQLite and PostgreSQL/package.xml [2.54 ms]
+2022-01-24 13:03:06.084367 ; Package        ; Debug       ; Found no custom actions to run at 'install' stage.
+2022-01-24 13:03:06.084367 ; Installer      ; Information ; Installed SQLite and PostgreSQL version 9.4.2+3009aace [372 ms]
+2022-01-24 13:03:06.084367 ; Installer      ; Information ; Installing C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\CSV.9.11.0+98498e58.Windows,Linux.TapPackage
+2022-01-24 13:03:06.097370 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/CSV/Csv.dll [9.67 ms]
+2022-01-24 13:03:06.100368 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/CSV/package.xml [2.94 ms]
+2022-01-24 13:03:06.100368 ; Package        ; Debug       ; Found no custom actions to run at 'install' stage.
+2022-01-24 13:03:06.100368 ; Installer      ; Information ; Installed CSV version 9.11.0+98498e58 [16.1 ms]
+2022-01-24 13:03:06.100368 ; Installer      ; Information ; Installing C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\Keysight Floating Licensing.1.4.1+e5816333.TapPackage
+2022-01-24 13:03:06.199368 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/x64/Keysight.Tap.Library.dll [95.8 ms]
+2022-01-24 13:03:06.285366 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/x64/Keysight.Tap.Library.v9.dll [86.8 ms]
+2022-01-24 13:03:06.361370 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/x86/Keysight.Tap.Library.dll [76.0 ms]
+2022-01-24 13:03:06.426367 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/x86/Keysight.Tap.Library.v9.dll [64.0 ms]
+2022-01-24 13:03:06.430368 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/Keysight Floating Licensing/package.xml [4.55 ms]
+2022-01-24 13:03:06.430368 ; Package        ; Debug       ; Found no custom actions to run at 'install' stage.
+2022-01-24 13:03:06.431371 ; Installer      ; Information ; Installed Keysight Floating Licensing version 1.4.1+e5816333 [330 ms]
+2022-01-24 13:03:06.431371 ; Installer      ; Information ; Installing C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\WPF Controls.9.16.5+1527f98a.TapPackage
+2022-01-24 13:03:06.538367 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/WPF Controls/Keysight.OpenTap.Wpf.dll [100 ms]
+2022-01-24 13:03:06.548367 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.4.0.0.0/System.dll [10.4 ms]
+2022-01-24 13:03:06.740367 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/Keysight.Ccl.Wsl.4.0.1.9/Keysight.Ccl.Wsl.dll [191 ms]
+2022-01-24 13:03:06.758368 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/EnvDTE.8.0.0.0/EnvDTE.dll [17.3 ms]
+2022-01-24 13:03:06.779366 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/Keysight.Ccl.Licensing.Api.5.3.2.19/Keysight.Ccl.Licensing.Api.dll [21.3 ms]
+2022-01-24 13:03:06.839425 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/MahApps.Metro.1.3.0.0/MahApps.Metro.dll [59.2 ms]
+2022-01-24 13:03:06.849425 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Windows.Interactivity.4.5.0.0/System.Windows.Interactivity.dll [10.2 ms]
+2022-01-24 13:03:06.862424 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/Microsoft.Expression.Interactions.4.5.0.0/Microsoft.Expression.Interactions.dll [13.3 ms]
+2022-01-24 13:03:06.867423 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/stdole.7.0.3300.0/stdole.dll [4.79 ms]
+2022-01-24 13:03:06.870425 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/WPF Controls/package.xml [2.63 ms]
+2022-01-24 13:03:06.870425 ; Package        ; Debug       ; Found no custom actions to run at 'install' stage.
+2022-01-24 13:03:06.871438 ; Installer      ; Information ; Installed WPF Controls version 9.16.5+1527f98a [440 ms]
+2022-01-24 13:03:06.871438 ; Installer      ; Information ; Installing C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\OSIntegration.1.4.0+c70929ac.TapPackage
+2022-01-24 13:03:06.886425 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/OSIntegration/OpenTap.OSIntegration.Windows.dll [7.74 ms]
+2022-01-24 13:03:06.889423 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/OSIntegration/package.xml [2.78 ms]
+2022-01-24 13:03:06.889423 ; Plugin         ; Information ; Starting install step 'tap.exe path register'
+2022-01-24 13:03:09.805242 ; Session        ; Debug       ; Session log loaded as 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\SessionLogs\tap 2022-01-24 13-03-06.txt'. [18.8 ms]
+2022-01-24 13:03:09.805242 ; Session        ; Debug       ; Running '"C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\tap.exe" path register --verbose ' in 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release'.
+2022-01-24 13:03:09.805242 ; Session        ; Debug       ; Microsoft Windows 10.0.19042 X64
+2022-01-24 13:03:09.805242 ; Session        ; Debug       ; .NET Framework 4.8.4420.0
+2022-01-24 13:03:09.805242 ; Session        ; Debug       ; OpenTAP Engine 9.16.4+654f0b6b X64
+2022-01-24 13:03:09.805242 ; Resolver       ; Debug       ; Found 17/64 assembly files. [99.5 ms]
+2022-01-24 13:03:09.805242 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-01-24 13:03:09.805242 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-01-24 13:03:09.805242 ; Searcher       ; Debug       ; Ordered 15 assemblies according to references. [780 ms]
+2022-01-24 13:03:10.007244 ; PluginManager  ; Debug       ; Loaded OpenTap. [993 us]
+2022-01-24 13:03:10.007244 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [15.7 ms]
+2022-01-24 13:03:10.007244 ; Settings       ; Debug       ; No settings file exists for EngineSettings. A new instance with default values has been created. [15.0 ms]
+2022-01-24 13:03:10.119246 ; Session        ; Debug       ; Session log loaded as 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\SessionLogs\SessionLog 2022-01-24 13-03-06.txt'. [13.7 ms]
+2022-01-24 13:03:10.119246 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [11.8 ms]
+2022-01-24 13:03:10.229243 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [11.9 ms]
+2022-01-24 13:03:10.324244 ; PluginManager  ; Debug       ; Loaded mscorlib. [800 ns]
+2022-01-24 13:03:10.324244 ; CLI            ; Debug       ; Executing CLI action: path \ register
+2022-01-24 13:03:10.324244 ; PackageAction  ; Information ; Skipping OS Integration (OPENTAP_DEBUG_INSTALL environment variable is set).
+2022-01-24 13:03:10.324244 ; CLI            ; Debug       ; CLI action returned exit code: 0 [5.24 ms]
+2022-01-24 13:03:10.349242 ; Plugin         ; Information ; Succesfully ran install step  'tap.exe path register'.  [3.46 s]
+2022-01-24 13:03:10.349242 ; Package        ; Debug       ; Found no custom actions to run at 'install' stage.
+2022-01-24 13:03:10.349242 ; Installer      ; Information ; Installed OSIntegration version 1.4.0+c70929ac [3.47 s]
+2022-01-24 13:03:10.350250 ; Installer      ; Information ; Package 'OSIntegration' contains possibly relevant plugins for next package installations. Searching for plugins.. [3.48 s]
+2022-01-24 13:03:10.351251 ; Installer      ; Information ; Installing C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\Timing Analyzer.9.16.5+1527f98a.x64.TapPackage
+2022-01-24 13:03:10.401248 ; Resolver       ; Debug       ; Found 22/82 assembly files. [49.9 ms]
+2022-01-24 13:03:10.448245 ; Searcher       ; Debug       ; Ordered 15 assemblies according to references. [46.3 ms]
+2022-01-24 13:03:10.470250 ; PluginManager  ; Debug       ; Found 11 plugin assemblies containing 217 plugin types. [68.7 ms]
+2022-01-24 13:03:10.470250 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.dll
+2022-01-24 13:03:10.470250 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Package.dll
+2022-01-24 13:03:10.470250 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Plugins.BasicSteps.dll
+2022-01-24 13:03:10.470250 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll from C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Packages\CSV\Csv.dll
+2022-01-24 13:03:10.470250 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll from C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Packages\OSIntegration\OpenTap.OSIntegration.Windows.dll
+2022-01-24 13:03:10.470250 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Sdk.New.dll from C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Packages\SDK\OpenTap.Sdk.New.dll
+2022-01-24 13:03:10.470250 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll from C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Packages\SQLite and PostgreSQL\Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-01-24 13:03:10.470250 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll from C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Packages\SQLite and PostgreSQL\Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-01-24 13:03:10.470250 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll from C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Packages\SQLite and PostgreSQL\Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-01-24 13:03:10.470250 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of Keysight.OpenTap.Wpf.dll from C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Packages\WPF Controls\Keysight.OpenTap.Wpf.dll
+2022-01-24 13:03:10.470250 ; PluginManager  ; Debug       ; Found version 1.2.2+ebf9ebe5   of OpenTap.VSSdk.Installer.dll from C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Packages\Visual Studio SDK\Install\OpenTap.VSSdk.Installer.dll
+2022-01-24 13:03:10.470250 ; PluginManager  ; Debug       ; Searched 22 Assemblies. [68.9 ms]
+2022-01-24 13:03:10.471244 ; PluginManager  ; Debug       ; Loaded OpenTap. [165 us]
+2022-01-24 13:03:10.471244 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [487 us]
+2022-01-24 13:03:10.471244 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [552 us]
+2022-01-24 13:03:10.480248 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [8.53 ms]
+2022-01-24 13:03:10.505243 ; PluginManager  ; Debug       ; Loaded mscorlib. [600 ns]
+2022-01-24 13:03:10.624247 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/TimingAnalyzer.exe [60.6 ms]
+2022-01-24 13:03:10.640244 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/TimingAnalyzerHelp.chm [16.5 ms]
+2022-01-24 13:03:10.653245 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/OxyPlot.Wpf.1.0.0.0/OxyPlot.Wpf.dll [12.3 ms]
+2022-01-24 13:03:10.685254 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/OxyPlot.1.0.0.0/OxyPlot.dll [32.2 ms]
+2022-01-24 13:03:10.691244 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Runtime.4.1.2.0/System.Runtime.dll [5.60 ms]
+2022-01-24 13:03:10.695242 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Collections.4.0.11.0/System.Collections.dll [3.98 ms]
+2022-01-24 13:03:10.699246 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Diagnostics.Debug.4.0.11.0/System.Diagnostics.Debug.dll [4.39 ms]
+2022-01-24 13:03:10.705250 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Reflection.4.1.2.0/System.Reflection.dll [5.48 ms]
+2022-01-24 13:03:10.711243 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Text.RegularExpressions.4.1.1.0/System.Text.RegularExpressions.dll [6.50 ms]
+2022-01-24 13:03:10.716245 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Runtime.Extensions.4.1.2.0/System.Runtime.Extensions.dll [4.29 ms]
+2022-01-24 13:03:10.720245 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.IO.4.1.2.0/System.IO.dll [4.25 ms]
+2022-01-24 13:03:10.727243 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Xml.ReaderWriter.4.1.1.0/System.Xml.ReaderWriter.dll [6.95 ms]
+2022-01-24 13:03:10.733243 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Text.Encoding.4.0.11.0/System.Text.Encoding.dll [6.37 ms]
+2022-01-24 13:03:10.738247 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Globalization.4.0.11.0/System.Globalization.dll [4.92 ms]
+2022-01-24 13:03:10.744245 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Threading.4.0.11.0/System.Threading.dll [5.61 ms]
+2022-01-24 13:03:10.749245 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Linq.4.1.2.0/System.Linq.dll [4.70 ms]
+2022-01-24 13:03:10.757246 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Reflection.Extensions.4.0.1.0/System.Reflection.Extensions.dll [8.49 ms]
+2022-01-24 13:03:10.762246 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/Timing Analyzer/package.xml [4.70 ms]
+2022-01-24 13:03:10.772245 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [9.12 ms]
+2022-01-24 13:03:10.789254 ; Package        ; Debug       ; Available custom actions for 'install' stage. (1 actions: OS Integration - File associations and start menu items)
+2022-01-24 13:03:10.795246 ; OS Integration ; Information ; Skipping OS Integration (OPENTAP_DEBUG_INSTALL environment variable is set).
+2022-01-24 13:03:10.795246 ; Installer      ; Information ; Installed Timing Analyzer version 9.16.5+1527f98a [443 ms]
+2022-01-24 13:03:10.795246 ; Installer      ; Information ; Installing C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\Results Viewer.9.16.5+1527f98a.x64.TapPackage
+2022-01-24 13:03:10.861243 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/ResultsViewer.exe [54.4 ms]
+2022-01-24 13:03:10.905244 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/RunExplorer.exe [44.0 ms]
+2022-01-24 13:03:10.921243 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/ResultsViewerHelp.chm [15.2 ms]
+2022-01-24 13:03:10.933247 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/RunExplorerHelp.chm [12.3 ms]
+2022-01-24 13:03:10.962243 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/OxyPlot.1.0.0.0/OxyPlot.dll [28.4 ms]
+2022-01-24 13:03:10.973247 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/OxyPlot.Wpf.1.0.0.0/OxyPlot.Wpf.dll [11.5 ms]
+2022-01-24 13:03:10.994241 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/DocX.1.0.0.22/DocX.dll [21.0 ms]
+2022-01-24 13:03:11.009245 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/ReactiveUI.6.5.0.0/ReactiveUI.dll [14.7 ms]
+2022-01-24 13:03:11.015247 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Reactive.Interfaces.2.2.5.0/System.Reactive.Interfaces.dll [6.13 ms]
+2022-01-24 13:03:11.026241 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Reactive.Core.2.2.5.0/System.Reactive.Core.dll [10.9 ms]
+2022-01-24 13:03:11.071246 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Reactive.Linq.2.2.5.0/System.Reactive.Linq.dll [44.6 ms]
+2022-01-24 13:03:11.078246 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Runtime.4.1.2.0/System.Runtime.dll [6.73 ms]
+2022-01-24 13:03:11.082241 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Collections.4.0.11.0/System.Collections.dll [3.88 ms]
+2022-01-24 13:03:11.086243 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Diagnostics.Debug.4.0.11.0/System.Diagnostics.Debug.dll [4.51 ms]
+2022-01-24 13:03:11.091247 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Reflection.4.1.2.0/System.Reflection.dll [5.03 ms]
+2022-01-24 13:03:11.096245 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Text.RegularExpressions.4.1.1.0/System.Text.RegularExpressions.dll [4.37 ms]
+2022-01-24 13:03:11.100251 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Runtime.Extensions.4.1.2.0/System.Runtime.Extensions.dll [4.08 ms]
+2022-01-24 13:03:11.104244 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.IO.4.1.2.0/System.IO.dll [4.02 ms]
+2022-01-24 13:03:11.110245 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Xml.ReaderWriter.4.1.1.0/System.Xml.ReaderWriter.dll [5.77 ms]
+2022-01-24 13:03:11.115243 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Text.Encoding.4.0.11.0/System.Text.Encoding.dll [4.74 ms]
+2022-01-24 13:03:11.119246 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Globalization.4.0.11.0/System.Globalization.dll [4.52 ms]
+2022-01-24 13:03:11.124243 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Threading.4.0.11.0/System.Threading.dll [4.43 ms]
+2022-01-24 13:03:11.130244 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Linq.4.1.2.0/System.Linq.dll [6.30 ms]
+2022-01-24 13:03:11.135244 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Reflection.Extensions.4.0.1.0/System.Reflection.Extensions.dll [4.34 ms]
+2022-01-24 13:03:11.146244 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/Splat.1.6.2.0/Splat.dll [11.0 ms]
+2022-01-24 13:03:11.152246 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Reactive.Windows.Threading.2.2.5.0/System.Reactive.Windows.Threading.dll [6.59 ms]
+2022-01-24 13:03:11.162243 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/System.Reactive.PlatformServices.2.2.5.0/System.Reactive.PlatformServices.dll [9.45 ms]
+2022-01-24 13:03:11.167243 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/Results Viewer/package.xml [4.76 ms]
+2022-01-24 13:03:11.167243 ; Package        ; Debug       ; Available custom actions for 'install' stage. (1 actions: OS Integration - File associations and start menu items)
+2022-01-24 13:03:11.167243 ; OS Integration ; Information ; Skipping OS Integration (OPENTAP_DEBUG_INSTALL environment variable is set).
+2022-01-24 13:03:11.167243 ; Installer      ; Information ; Installed Results Viewer version 9.16.5+1527f98a [372 ms]
+2022-01-24 13:03:11.167243 ; Installer      ; Information ; Installing C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\Editor.9.16.5+1527f98a.x64.TapPackage
+2022-01-24 13:03:11.255295 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/EditorHelp.chm [82.9 ms]
+2022-01-24 13:03:11.343293 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Editor.exe [88.2 ms]
+2022-01-24 13:03:11.427293 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/PackageManager.exe [83.5 ms]
+2022-01-24 13:03:11.436296 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/Keysight.Kal.Licensing.Api.4.0.0.0/Keysight.Kal.Licensing.Api.dll [8.99 ms]
+2022-01-24 13:03:11.471294 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Dependencies/AvalonDock.4.60.0.0/AvalonDock.dll [34.7 ms]
+2022-01-24 13:03:11.475295 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/Editor/package.xml [4.42 ms]
+2022-01-24 13:03:11.476298 ; Package        ; Debug       ; Available custom actions for 'install' stage. (1 actions: OS Integration - File associations and start menu items)
+2022-01-24 13:03:11.476298 ; OS Integration ; Information ; Skipping OS Integration (OPENTAP_DEBUG_INSTALL environment variable is set).
+2022-01-24 13:03:11.476298 ; Installer      ; Information ; Installed Editor version 9.16.5+1527f98a [308 ms]
+2022-01-24 13:03:11.476298 ; Installer      ; Information ; Installing C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\PackageCache\Developer's System.9.16.5+1527f98a.TapPackage
+2022-01-24 13:03:11.482295 ; package        ; Debug       ; Decompressed C:/Users/seokchoi/source/repos/Oscilloscope/Oscilloscope/bin/Release/Packages/Developer's System/package.xml [3.92 ms]
+2022-01-24 13:03:11.482295 ; Package        ; Debug       ; Available custom actions for 'install' stage. (1 actions: OS Integration - File associations and start menu items)
+2022-01-24 13:03:11.482295 ; OS Integration ; Information ; Skipping OS Integration (OPENTAP_DEBUG_INSTALL environment variable is set).
+2022-01-24 13:03:11.482295 ; Installer      ; Information ; Installed Developer's System version 9.16.5+1527f98a [6.59 ms]
+2022-01-24 13:03:11.566299 ; CLI            ; Debug       ; CLI action returned exit code: 0 [58.9 s]

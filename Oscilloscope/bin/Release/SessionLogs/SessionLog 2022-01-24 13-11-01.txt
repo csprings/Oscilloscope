@@ -1,0 +1,61 @@
+﻿2022-01-24 13:11:02.958768 ; Session        ; Debug       ; Session log loaded as 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\SessionLogs\tap 2022-01-24 13-11-01.txt'. [10.7 ms]
+2022-01-24 13:11:02.993768 ; Session        ; Debug       ; Running '.\tap  package create "C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\\package.xml" --install' in 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release'.
+2022-01-24 13:11:03.054815 ; Session        ; Debug       ; Microsoft Windows 10.0.19042 X64
+2022-01-24 13:11:03.054815 ; Session        ; Debug       ; .NET Framework 4.8.4420.0
+2022-01-24 13:11:03.085778 ; Session        ; Debug       ; OpenTAP Engine 9.16.4+654f0b6b X64
+2022-01-24 13:11:03.095768 ; Resolver       ; Debug       ; Found 24/88 assembly files. [48.3 ms]
+2022-01-24 13:11:03.215771 ; Resolver       ; Debug       ; Found match for System.Reflection.Metadata, Version=1.4.3.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Dependencies\System.Reflection.Metadata.1.4.3.0\System.Reflection.Metadata.dll
+2022-01-24 13:11:03.355771 ; Resolver       ; Debug       ; Found match for System.Collections.Immutable, Version=1.2.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Dependencies\System.Collections.Immutable.1.2.3.0\System.Collections.Immutable.dll
+2022-01-24 13:11:03.540368 ; Searcher       ; Debug       ; Ordered 21 assemblies according to references. [435 ms]
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found 17 plugin assemblies containing 264 plugin types. [634 ms]
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.dll
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Package.dll
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Plugins.BasicSteps.dll
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of Keysight.OpenTap.Wpf.dll
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of PackageManager.exe
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of Editor.exe
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 0.1.0-Development of Oscilloscope.dll
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 9.11.0+98498e58  of Csv.dll
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of ResultsViewer.exe
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of RunExplorer.exe
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 9.16.5+1527f98a  of TimingAnalyzer.exe
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 1.0.0            of OpenTap.OSIntegration.Windows.dll
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 9.16.4+654f0b6b  of OpenTap.Sdk.New.dll
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SqlDatabase.dll
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.PostgreSQL.dll
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 9.4.2+3009aace   of Keysight.OpenTap.Plugins.ResultListener.SQLite.dll
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Found version 1.2.2+ebf9ebe5   of OpenTap.VSSdk.Installer.dll
+2022-01-24 13:11:03.738369 ; PluginManager  ; Debug       ; Searched 24 Assemblies. [635 ms]
+2022-01-24 13:11:03.826369 ; PluginManager  ; Debug       ; Loaded OpenTap. [633 us]
+2022-01-24 13:11:03.839367 ; PluginManager  ; Debug       ; Loaded Keysight.OpenTap.Wpf. [8.53 ms]
+2022-01-24 13:11:03.889443 ; Settings       ; Debug       ; No settings file exists for EngineSettings. A new instance with default values has been created. [13.0 ms]
+2022-01-24 13:11:03.942446 ; Session        ; Debug       ; Session log loaded as 'C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\SessionLogs\SessionLog 2022-01-24 13-11-01.txt'. [9.45 ms]
+2022-01-24 13:11:03.970448 ; PluginManager  ; Debug       ; Loaded OpenTap.Package. [9.43 ms]
+2022-01-24 13:11:04.020447 ; PluginManager  ; Debug       ; Loaded OpenTap.Plugins.BasicSteps. [8.95 ms]
+2022-01-24 13:11:04.130985 ; PluginManager  ; Debug       ; Loaded mscorlib. [1.10 us]
+2022-01-24 13:11:04.133034 ; CLI            ; Debug       ; Executing CLI action: package \ create
+2022-01-24 13:11:04.303985 ; PluginManager  ; Debug       ; Loaded OpenTap.OSIntegration.Windows. [9.39 ms]
+2022-01-24 13:11:04.462989 ; Resolver       ; Debug       ; Found match for DotNet.Glob, Version=3.0.1.0, Culture=neutral, PublicKeyToken=b68cc888b4f632d1 in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Dependencies\DotNet.Glob.3.0.1.0\DotNet.Glob.dll
+2022-01-24 13:11:04.578991 ; Searcher       ; Debug       ; Ordered 81 assemblies according to references. [55.9 ms]
+2022-01-24 13:11:04.713986 ; Package        ; Information ; Updating package version.
+2022-01-24 13:11:04.723996 ; Package        ; Information ; Package version is 0.1.1-beta
+2022-01-24 13:11:04.977054 ; CLI            ; Debug       ; Executing CLI action: package \ check-updates
+2022-01-24 13:11:05.002054 ; Settings       ; Debug       ; No settings file exists for PackageManagerSettings. A new instance with default values has been created. [14.4 ms]
+2022-01-24 13:11:05.345058 ; Package        ; Information ; Satisfying assembly reference to OpenTap by adding dependency on package OpenTAP
+2022-01-24 13:11:05.345058 ; Package        ; Information ; Satisfying assembly reference to netstandard by adding dependency on package OpenTAP
+2022-01-24 13:11:05.345058 ; Package        ; Information ; Adding dependency on package 'OpenTAP' version 9.16.4+654f0b6b
+2022-01-24 13:11:05.362056 ; Package        ; Debug       ; Using temporary folder at 'C:\Users\seokchoi\AppData\Local\Temp\rakybfj1.kko'
+2022-01-24 13:11:05.371054 ; Package        ; Debug       ; Updating version info for 'Oscilloscope.dll'
+2022-01-24 13:11:05.400056 ; Resolver       ; Debug       ; Found match for Mono.Cecil, Version=0.10.1.0, Culture=neutral, PublicKeyToken=50cebf1cceb9d05e in C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Dependencies\Mono.Cecil.0.10.1.0\Mono.Cecil.dll
+2022-01-24 13:11:06.152586 ; UpdateCheck    ; Information ; Updates available for:
+2022-01-24 13:11:06.153590 ; UpdateCheck    ; Information ;  - PathWave License Manager: 2.4.0 -> 2.4.3
+2022-01-24 13:11:06.153590 ; CLI            ; Debug       ; CLI action returned exit code: 0 [1.17 s]
+2022-01-24 13:11:08.250465 ; Package        ; Information ; Updated assembly version info using ILDasm method. [2.88 s]
+2022-01-24 13:11:08.269467 ; Package        ; Debug       ; Available custom actions for 'create' stage. (2 actions: OpenTap.Package.IncludePackageDependencies, OpenTap.Package.FileHashPackageAction)
+2022-01-24 13:11:08.282467 ; Package        ; Information ; Package action IncludePackageDependencies completed [13.2 ms]
+2022-01-24 13:11:08.305471 ; Package        ; Information ; Package action FileHashPackageAction completed [22.4 ms]
+2022-01-24 13:11:08.305471 ; Package        ; Information ; Creating OpenTAP package.
+2022-01-24 13:11:08.365472 ; Package        ; Debug       ; Compressed 'C:\Users\seokchoi\AppData\Local\Temp\rakybfj1.kko\Versioned\Oscilloscope.dll' [20.0 ms]
+2022-01-24 13:11:08.528466 ; PackageAction  ; Information ; OpenTAP plugin package 'Oscilloscope.0.1.1-beta.TapPackage' containing 'Oscilloscope' successfully created.
+2022-01-24 13:11:08.542466 ; PackageAction  ; Information ; Installed 'Oscilloscope' (C:\Users\seokchoi\source\repos\Oscilloscope\Oscilloscope\bin\Release\Packages\Oscilloscope\package.xml)
+2022-01-24 13:11:08.542466 ; CLI            ; Debug       ; CLI action returned exit code: 0 [4.40 s]

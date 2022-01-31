@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package InfoLink="http://www.keysight.com/find/TAP" Date="12/07/2021 13:39:34" LicenseRequired="KS8002A|KS8400A|TAP_TimingAnalyzer" Name="Timing Analyzer" Version="9.16.5+1527f98a" Architecture="x64" OS="Windows" xmlns="http://opentap.io/schemas/package">
+  <Hash>B27608E60ACF40F3882C0BE505FFC88F8D76DF83</Hash>
+  <Description>The Timing Analyzer Tool provides powerful insights into optimizing your overall test plan execution speed. You can visualize the test plan execution time in depth to see how much time each test step contributes.
+    <Status>Released</Status><Organisation>Keysight Technologies</Organisation></Description>
+  <Dependencies>
+    <PackageDependency Package="OSIntegration" Version="^1.0" />
+    <PackageDependency Package="OpenTAP" Version="^9.16.4+654f0b6b" />
+    <PackageDependency Package="WPF Controls" Version="^9.16.5+1527f98a" />
+    <PackageDependency Package="Keysight Floating Licensing" Version="^1.0" />
+  </Dependencies>
+  <Owner>Keysight Technologies, Inc.</Owner>
+  <Files>
+    <File Path="TimingAnalyzer.exe" LicenseRequired="KS8002A|KS8400A|TAP_TimingAnalyzer">
+      <Plugins>
+        <Plugin Type="Keysight.OpenTap.TimingAnalyzer.LogAnalyzerHandler" BaseType="Log Analyzer">
+          <Name>LogAnalyzerHandler</Name>
+          <Order>-10000</Order>
+          <Browsable>false</Browsable>
+          <Description></Description>
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.TimingAnalyzer.TimingAnalyzerToolProvider" BaseType="ToolProvider">
+          <Name>Timing Analyzer</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>Opens the OpenTAP Timing Analyzer with the log from the most recent test plan run.</Description>
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.TimingAnalyzer.TimingAnalyzerCliAction" BaseType="ICliAction">
+          <Name>timinganalyzer</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>Starts the Timing Analyzer GUI</Description>
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+        <Plugin Type="Keysight.OpenTap.TimingAnalyzer.TimingAnalyzerSettings" BaseType="Component Settings">
+          <Name>Timing Analyzer</Name>
+          <Order>-10000</Order>
+          <Browsable>false</Browsable>
+          <Description />
+          <Collapsed>false</Collapsed>
+          <Groups />
+        </Plugin>
+      </Plugins>
+      <StartMenuEntry Group="Keysight Test Automation" Name="Keysight Timing Analyzer" Args=""></StartMenuEntry>
+      <Hash>66A717E023AA49616FED54881C7165B10D1E362B</Hash>
+    </File>
+    <File Path="TimingAnalyzerHelp.chm">
+      <Hash>55C4460BCE9DAD4E817D5D21115AA5B33FC8E3B0</Hash>
+    </File>
+    <File Path="Dependencies/OxyPlot.Wpf.1.0.0.0/OxyPlot.Wpf.dll">
+      <Hash>7B442E30194D87E8DB77F6BEAAD4583853C1617D</Hash>
+    </File>
+    <File Path="Dependencies/OxyPlot.1.0.0.0/OxyPlot.dll">
+      <Hash>02602B4CA886A5F0A2D220E7BBC5AA7AE17FBDC0</Hash>
+    </File>
+    <File Path="Dependencies/System.Runtime.4.1.2.0/System.Runtime.dll">
+      <Hash>FD622ADE5CAE26353A22B6FA50A83669B72B6C41</Hash>
+    </File>
+    <File Path="Dependencies/System.Collections.4.0.11.0/System.Collections.dll">
+      <Hash>4D923B100142AFA2E0A8B7ACDB3A6DE6FEB91148</Hash>
+    </File>
+    <File Path="Dependencies/System.Diagnostics.Debug.4.0.11.0/System.Diagnostics.Debug.dll">
+      <Hash>EB8C010A35B461402C1C33133F1B61C78BE8425A</Hash>
+    </File>
+    <File Path="Dependencies/System.Reflection.4.1.2.0/System.Reflection.dll">
+      <Hash>3CA31DE7F0F0784559E5A73EBD0EFB42C34D18FC</Hash>
+    </File>
+    <File Path="Dependencies/System.Text.RegularExpressions.4.1.1.0/System.Text.RegularExpressions.dll">
+      <Hash>C2E4B19CB9A0B48E899512CD121FFE6657D41072</Hash>
+    </File>
+    <File Path="Dependencies/System.Runtime.Extensions.4.1.2.0/System.Runtime.Extensions.dll">
+      <Hash>7D71B46BB9A28289384AA1EDF5CB03D64B3BCFF0</Hash>
+    </File>
+    <File Path="Dependencies/System.IO.4.1.2.0/System.IO.dll">
+      <Hash>A6999C04B243B034F8EE7AD0D79F3CE24DF9A9D0</Hash>
+    </File>
+    <File Path="Dependencies/System.Xml.ReaderWriter.4.1.1.0/System.Xml.ReaderWriter.dll">
+      <Hash>EF317CACC230A58A3B2FCC6CC079CC763AFCC7C5</Hash>
+    </File>
+    <File Path="Dependencies/System.Text.Encoding.4.0.11.0/System.Text.Encoding.dll">
+      <Hash>3946DFF0B68F0CA01689BD44C348559ADF548258</Hash>
+    </File>
+    <File Path="Dependencies/System.Globalization.4.0.11.0/System.Globalization.dll">
+      <Hash>846711D4161A3950FACDEF97037898A71F4EFDA1</Hash>
+    </File>
+    <File Path="Dependencies/System.Threading.4.0.11.0/System.Threading.dll">
+      <Hash>DDDA49572D112944EC9AB62B31959AA93A386618</Hash>
+    </File>
+    <File Path="Dependencies/System.Linq.4.1.2.0/System.Linq.dll">
+      <Hash>4D93C7D7E6315CA2195ED73716996ADE8E17FBB2</Hash>
+    </File>
+    <File Path="Dependencies/System.Reflection.Extensions.4.0.1.0/System.Reflection.Extensions.dll">
+      <Hash>F3BD9B4108ACD42ABFB99A3A4760BFFCB84F6C28</Hash>
+    </File>
+  </Files>
+</Package>

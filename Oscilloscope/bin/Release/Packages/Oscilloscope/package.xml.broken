@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package Date="01/24/2022 20:11:04" LicenseRequired="" Name="Oscilloscope" Version="0.1.1-beta" Architecture="AnyCPU" OS="Windows,Linux" xmlns="http://opentap.io/schemas/package">
+  <Hash>DA39A3EE5E6B4B0D3255BFEF95601890AFD80709</Hash>
+  <Description>This is my OpenTAP plugin package.</Description>
+  <Dependencies>
+    <PackageDependency Package="OpenTAP" Version="^9.16.4+654f0b6b" />
+  </Dependencies>
+  <Files>
+    <File Path="Packages/Oscilloscope/Oscilloscope.dll">
+      <Plugins>
+        <Plugin Type="Oscilloscope.FrequencyTestStep" BaseType="Test Step">
+          <Name>Frequency</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>Frequency measurement of the signal</Description>
+          <Collapsed>false</Collapsed>
+          <Groups>
+            <String>Oscilloscope</String>
+          </Groups>
+        </Plugin>
+        <Plugin Type="Oscilloscope.RisingTimeTestStep" BaseType="Test Step">
+          <Name>Rising Time</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>Rising time measurement</Description>
+          <Collapsed>false</Collapsed>
+          <Groups>
+            <String>Oscilloscope</String>
+          </Groups>
+        </Plugin>
+        <Plugin Type="Oscilloscope.scope" BaseType="Instrument">
+          <Name>scope</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>Oscilloscope connection</Description>
+          <Collapsed>false</Collapsed>
+          <Groups>
+            <String>Oscilloscope</String>
+          </Groups>
+        </Plugin>
+        <Plugin Type="Oscilloscope.Step" BaseType="Test Step">
+          <Name>IDN</Name>
+          <Order>-10000</Order>
+          <Browsable>true</Browsable>
+          <Description>Check the instrument connection</Description>
+          <Collapsed>false</Collapsed>
+          <Groups>
+            <String>Oscilloscope</String>
+          </Groups>
+        </Plugin>
+      </Plugins>
+      <Hash>BD62C5F353B1BCEF1C016C3F92647221B9903ECB</Hash>
+    </File>
+  </Files>
+</Package>>

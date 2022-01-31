@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Package InfoLink="http://www.keysight.com/find/TAP" Date="11/12/2021 15:24:43" LicenseRequired="" Name="Keysight Floating Licensing" Version="1.4.1+e5816333" Architecture="AnyCPU" OS="Windows" xmlns="http://opentap.io/schemas/package">
+  <Description>This package contains floating license components needed for licensed plugins.
+    <Status>Released</Status><Organisation>Keysight Technologies</Organisation></Description>
+  <Owner>Keysight Technologies, Inc.</Owner>
+  <Files>
+    <File Path="Dependencies/x64/Keysight.Tap.Library.dll">
+      <Hash>Lhi07tfhmPcsO/pDsEwa56M5ld8=</Hash>
+    </File>
+    <File Path="Dependencies/x64/Keysight.Tap.Library.v9.dll">
+      <Hash>vqP9YVUYXVTxCKt/tLUVoUyPelg=</Hash>
+    </File>
+    <File Path="Dependencies/x86/Keysight.Tap.Library.dll">
+      <Hash>FD0LQ+sZtUl7RaZHMw94/MhX1nE=</Hash>
+    </File>
+    <File Path="Dependencies/x86/Keysight.Tap.Library.v9.dll">
+      <Hash>YcTFliqylBR9cbNU9EyQ7iHSeZY=</Hash>
+    </File>
+  </Files>
+</Package>
